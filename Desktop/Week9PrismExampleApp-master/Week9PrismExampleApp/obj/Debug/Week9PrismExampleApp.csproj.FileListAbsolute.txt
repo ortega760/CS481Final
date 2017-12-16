@@ -1,0 +1,88 @@
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Week9PrismExampleApp.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Week9PrismExampleApp.pdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Newtonsoft.Json.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/nunit.framework.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Forms.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Extensions.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Primitives.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Forms.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.dll.config
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Extensions.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Primitives.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Newtonsoft.Json.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/nunit.framework.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.csprojResolveAssemblyReference.cache
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.csproj.CoreCompileInputs.cache
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.App.xaml.g.cs
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.MainPage.xaml.g.cs
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.SamplePageForNavigation.xaml.g.cs
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.EasyTestPage.xaml.g.cs
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.MoreInfoPage.xaml.g.cs
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.dll
+/Users/samuelortega/Downloads/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Week9PrismExampleApp.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Week9PrismExampleApp.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Newtonsoft.Json.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/nunit.framework.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Forms.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Extensions.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Primitives.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Forms.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Prism.Unity.Forms.dll.config
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Extensions.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/System.Net.Http.Primitives.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Newtonsoft.Json.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/nunit.framework.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Core.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.csproj.CoreCompileInputs.cache
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.App.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.MainPage.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.SamplePageForNavigation.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.EasyTestPage.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.MoreInfoPage.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.NextPage1.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.NextPage2.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.NextPage3.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.Views.NextPage4.xaml.g.cs
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp/obj/Debug/Week9PrismExampleApp.pdb

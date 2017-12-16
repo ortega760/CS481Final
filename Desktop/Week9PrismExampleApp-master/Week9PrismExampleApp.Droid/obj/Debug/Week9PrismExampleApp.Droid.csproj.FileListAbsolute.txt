@@ -1,0 +1,64 @@
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.Droid.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.Droid.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.Droid.apk
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.Droid-Signed.apk
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/FormsViewGroup.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.Forms.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.Unity.Forms.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Week9PrismExampleApp.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.Forms.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.Unity.Forms.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Prism.Unity.Forms.dll.config
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/FormsViewGroup.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/Week9PrismExampleApp.Droid.csprojResolveAssemblyReference.cache
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/Week9PrismExampleApp.Droid.csproj.CoreCompileInputs.cache
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/Week9PrismExampleApp.Droid.dll
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/Week9PrismExampleApp.Droid.pdb
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/android/bin/Week9PrismExampleApp.Droid.apk
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/res/drawable/icon.png
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/R.cs.flag
+/Users/samuelortega/Documents/CS 481/Week9PrismExampleApp-master/Week9PrismExampleApp.Droid/obj/Debug/uploadflags.txt
+bin/Debug/Mono.Android.pdb
+obj/Debug/linksrc/FormsViewGroup.dll.mdb
+obj/Debug/linksrc/Microsoft.Practices.ServiceLocation.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Core.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Xaml.dll.mdb
+obj/Debug/linksrc/Week9PrismExampleApp.Droid.pdb
+obj/Debug/linksrc/Mono.Android.pdb
+obj/Debug/linksrc/Week9PrismExampleApp.pdb

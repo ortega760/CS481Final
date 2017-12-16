@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    x:Class="Week9PrismExampleApp.Views.MainPage"
+    Title="MainPage"
+    Padding="0,20,0,0"
+    BackgroundColor="Gray">
+    <ContentPage.Resources>
+    <ResourceDictionary>
+    <Style x:Key="standardText" TargetType = "Label"> 
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+                <Setter Property="TextColor" Value="Black"/>
+                </Style>
+    </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout
+        Padding="0,20,0,0"
+        HorizontalOptions="Center"
+        VerticalOptions="Start">
+        <Label Text="{Binding Titletext}"
+                        Style="{StaticResource standardText}"
+            FontSize="30"/>
+        <StackLayout
+            Orientation="Horizontal"
+            HorizontalOptions="CenterAndExpand">
+
+            <Entry
+                Text="{Binding LocationEnteredByUser}"
+                WidthRequest="200" />
+            <Button
+                Text="Search"
+                Command="{Binding GetWeatherForLocationCommand}" />
+        </StackLayout>
+        <ListView
+            x:Name="WeatherListView"
+            ItemsSource="{Binding WeatherCollection}"
+            BackgroundColor="Silver">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell
+                        x:Name="WeatherItemCell">
+                        <ViewCell.ContextActions>
+                            <MenuItem
+                                x:Name="MoreInfoButton"
+                                AutomationId="MoreInfoButton"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding NavToMoreInfoPageCommand}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"
+                                Text="Coordinates" />
+                           
+                            <MenuItem
+                                x:Name="MoreInfoButton1"
+                                AutomationId="MoreInfoButton"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding NavToMoreInfoPageCommand1}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"
+                                Text="Min/Max temp" />
+                            <MenuItem
+                                x:Name="MoreInfoButton2"
+                                AutomationId="MoreInfoButton"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding NavToMoreInfoPageCommand2}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"
+                                Text="Humidity/Clouds" />
+                            <MenuItem
+                                x:Name="MoreInfoButton3"
+                                AutomationId="MoreInfoButton"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding NavToMoreInfoPageCommand3}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"
+                                Text="Wind speed" />
+                            <MenuItem
+                                x:Name="MoreInfoButton4"
+                                AutomationId="MoreInfoButton"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding NavToMoreInfoPageCommand4}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"
+                                Text="Sunset/Sunrise" />
+                            <MenuItem
+                                x:Name="DeleteInfoButton"
+                                AutomationId="DeleteInfoButton"
+                                Text="Delete"
+                                IsDestructive="true"
+                                BindingContext="{Binding Source={x:Reference WeatherListView}, Path=BindingContext}"
+                                Command="{Binding DeleteInfoCommand}"
+                                CommandParameter="{Binding Source={x:Reference WeatherItemCell}, Path=BindingContext}"/>
+                        </ViewCell.ContextActions>
+                        <ViewCell.View>
+                            <StackLayout
+                                Orientation="Horizontal">
+                                <Label
+                                    x:Name="LocationNameLabel"
+                                    Text="{Binding Name}"
+                                    VerticalOptions="Center"
+                                    Margin="10" 
+                                    Style="{StaticResource standardText}"/>
+                                
+                                <Label
+                                    x:Name="MaxTempLabel"
+                                    Text="{Binding Main.Temp, StringFormat='Current Temperature: {0}°'}"
+                                    VerticalOptions="Center"
+                                    Margin="3"
+                                    Style="{StaticResource standardText}"/>
+                                
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:behaviors="clr-namespace:Prism.Behaviors;assembly=Prism.Forms"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    x:Class="Week9PrismExampleApp.Views.MoreInfoPage"
+    Padding="0,20,0,0"
+    BackgroundColor="Gray">
+    <ContentPage.Resources>
+    <ResourceDictionary>
+    <Style x:Key="standardText" TargetType = "Label"> 
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+                <Setter Property="TextColor" Value="Black"/>
+                </Style>
+    </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Label
+            Text="{Binding WeatherItem.Coord.Lon, StringFormat='Longitude: {0}°'}"
+        Style="{StaticResource standardText}"/>
+         <Label
+            Text="{Binding WeatherItem.Coord.Lat, StringFormat='Latitude: {0}°'}"
+        Style="{StaticResource standardText}"/>
+
+        <Image 
+            x:Name="image"
+            Source="latlon.png"/>
+
+        <Button
+            Text="Go Back"
+            Command="{Binding GoBackCommand}" 
+            FontSize="30"/>
+        
+    </StackLayout>
+</ContentPage>
